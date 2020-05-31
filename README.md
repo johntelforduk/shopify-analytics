@@ -3,6 +3,11 @@ Some analysis of Shopify transactions data.
 #### Installation
 ```
 pip install pandas
+pip install pytest
+```
+#### Testing
+```
+pytest
 ```
 #### Process
 1. In Shopify, do export of transactions.

@@ -1,0 +1,7 @@
+Order,Name,Kind,Gateway,Created At,Status,Amount,Currency,Card Type
+22287727,#216,sale,shopify_payments,2020-05-25 19:17:58 +0100,success,100.00,GBP,visa
+22287726,#218,sale,shopify_payments,2020-05-05 19:17:58 +0100,success,200.00,GBP,visa
+22285303,#215,sale,paypal,2020-04-28 17:51:55 +0100,success,50.00,GBP,""
+22283360,#214,refund,paypal,2020-05-25 16:40:05 +0100,success,10.00,GBP,""
+22283317,#213,refund,paypal,2020-05-12 16:38:33 +0100,success,25.00,GBP,""
+22283347,#219,refund,paypal,2020-04-20 16:38:33 +0100,success,20.00,GBP,""
