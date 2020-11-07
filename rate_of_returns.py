@@ -3,7 +3,7 @@
 import analytics as an
 from _datetime import datetime
 
-analysis = an.Analytics(filename='transactions.csv', datetime_now=datetime.now(), refund_window=14)
+analysis = an.Analytics(filename='transactions_export_1.csv', datetime_now=datetime.now(), refund_window=14)
 
 print(analysis.monthly.head(1000))
 
