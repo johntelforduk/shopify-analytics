@@ -3,6 +3,7 @@ For each month, the program calculates the monthly Refund Rate as follows,
 ```
 Refund Rate = sum(Refunds) / sum(Sales)
 ```
+Orders made in the last 14 days are omitted from the analysis, as they have not had sufficient time for refunds to be made.
 #### Installation
 ```
 pip install pandas
